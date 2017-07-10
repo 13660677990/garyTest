@@ -3,5 +3,5 @@ OO
 tttt
 garyTest
 =======
-newTest
+new
 test
